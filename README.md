@@ -2,6 +2,11 @@
 
 ## finding homologous sequences
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ### step one 
 
 ![Screenshot from 2022-07-26 10-08-08](https://user-images.githubusercontent.com/97890823/180953448-1415b5c9-5313-4733-80b4-8e9a6cd0a5fd.png)
